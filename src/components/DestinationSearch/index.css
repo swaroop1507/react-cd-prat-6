@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 30px;
+  width: 200px;
+}
+
+.search-icon {
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+}
+
+.heading {
+  font-family: 'Open Sans';
+  text-align: center;
+}
+
+.search-input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.destination-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

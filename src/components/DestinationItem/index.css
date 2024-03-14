@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.destination-item {
+  list-style-type: none;
+  margin-right: 50px;
+}
+
+.destination-image {
+  width: 235px;
+  height: 175px;
+}
+
+.name {
+  color: #000000;
+  font-family: 'roboto';
+  font-size: 16px;
+}
